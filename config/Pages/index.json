@@ -1,0 +1,87 @@
+{
+    "ContactMessageBoxPlaceHolder": "",,
+    "EditMode": "Somepass",
+    "AddToCart": "Add to Cart",
+    "ProductName": "Some Young Cream 2",
+    "ProductPrice": 19.99,
+    "LoginTextButton": "Login",
+    "FooterHeaderText": "Questions or comments? <strong>Get in touch:</strong>",
+    "SendMessageButtonText": "Send Message",
+    "PrivacyButtonText": "Privacy",
+    "TermsOfServiceButtonText": "Term Of Service",
+    "Title": "ay",
+    "Structure": "SplitPage",
+    "MainImage": "images/cream1.jpg",
+    "SubHeaderText": "Behold! This is the <strong>left sidebar</strong> layout<br/> with a sidebar on the left!",
+    "FooterText": "Erat lorem ipsum veroeros consequat magna tempus lorem ipsum consequat Phaselamet mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada.",
+    "Images": [
+        {
+            "Url": "images/cream1.jpg",
+            "Alt": "Some Image"
+        },
+        {
+            "Url": "images/cream2.jpg",
+            "Alt": "Some Image"
+        },
+        {
+            "Url": "images/cream3.jpg",
+            "Alt": "Some Image"
+        },
+        {
+            "Url": "images/cream4.jpg",
+            "Alt": "Some Image"
+        },
+
+        {
+            "Url": "images/cream6.jpg",
+            "Alt": "Some Image"
+        },
+        {
+            "Url": "images/cream7.jpg",
+            "Alt": "Some Image"
+        },
+        {
+            "Url": "images/cream8.jpg",
+            "Alt": "Some Image"
+        },
+        {
+            "Url": "images/cream9.jpg",
+            "Alt": "Some Image"
+        }
+    ],
+    "MainContent": [
+        {
+            "SubHeader": "Left is the opposite of right",
+            "ImageBefore": "images/pic02.jpg",
+            "Text": [
+                "Phasellus laoreet massa id justo mattis pharetra. Fusce\n                            suscipit\n                            ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris\n                            sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada\n                            in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat\n                            magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros\n                            consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id\n                            justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet\n                            mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.\n                            Curabitur leo nibh, rutrum eu malesuada in tristique",
+                "Phasellus laoreet massa id justo mattis pharetra. Fusce\n                            suscipit\n                            ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris\n                            sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada\n                            in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat\n                            magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros\n                            consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id\n                            justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet\n                            mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.\n                            Curabitur leo nibh, rutrum eu malesuada in tristique",
+                "Phasellus laoreet massa id justo mattis pharetra. Fusce\n                            suscipit\n                            ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris\n                            sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada\n                            in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat\n                            magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros\n                            consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id\n                            justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet\n                            mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.\n                            Curabitur leo nibh, rutrum eu malesuada in tristique"
+            ],
+            "ImageAfter": "images/facewipe.gif"
+        },
+        {
+            "SubHeader": "Left is the opposite of right",
+            "Text": [
+                "Phasellus laoreet massa id justo mattis pharetra. Fusce\n                            suscipit\n                            ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris\n                            sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada\n                            in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat\n                            magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros\n                            consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id\n                            justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet\n                            mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.\n                            Curabitur leo nibh, rutrum eu malesuada in tristique",
+                "Phasellus laoreet massa id justo mattis pharetra. Fusce\n                            suscipit\n                            ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris\n                            sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada\n                            in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat\n                            magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros\n                            consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id\n                            justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet\n                            mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.\n                            Curabitur leo nibh, rutrum eu malesuada in tristique",
+                "Phasellus laoreet massa id justo mattis pharetra. Fusce\n                            suscipit\n                            ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris\n                            sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada\n                            in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat\n                            magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros\n                            consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id\n                            justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet\n                            mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.\n                            Curabitur leo nibh, rutrum eu malesuada in tristique"
+            ]
+        },
+        {
+            "SubHeader": "Left is the opposite of right",
+            "Text": [
+                "Phasellus laoreet massa id justo mattis pharetra. Fusce\n                            suscipit\n                            ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris\n                            sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada\n                            in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat\n                            magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros\n                            consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id\n                            justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet\n                            mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.\n                            Curabitur leo nibh, rutrum eu malesuada in tristique",
+                "Phasellus laoreet massa id justo mattis pharetra. Fusce\n                            suscipit\n                            ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris\n                            sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada\n                            in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat\n                            magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros\n                            consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id\n                            justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet\n                            mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.\n                            Curabitur leo nibh, rutrum eu malesuada in tristique",
+                "Phasellus laoreet massa id justo mattis pharetra. Fusce\n                            suscipit\n                            ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris\n                            sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada\n                            in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat\n                            magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros\n                            consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id\n                            justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet\n                            mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.\n                            Curabitur leo nibh, rutrum eu malesuada in tristique"
+            ]
+        }
+    ],
+    "MetaTags": [
+        {
+            "Name": "description",
+            "Content": "An Advanced Tone-Up Enhancer,&nbsp;Brightens Skin Tone Naturally And Instantly This&nbsp;Tone-Up&nbsp;Cream&nbsp;brightens&nbsp;your skin tone instantly while minimizing the appearance of fine lines and pores.&nbsp;An antioxidant-rich formula provides&nbsp;exceptional&nbsp;hydration, leaving skin smooth, and healthy all day long."
+        }
+    ]
+
+}
